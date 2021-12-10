@@ -37,7 +37,7 @@
       <div class="row">
         <div class="col-xs-6 col-xs-3">
  <!--Profile Pic-->
-<a href="#"><img class="larger-image img-thumbnail thin-border" src="https://i.imgur.com/PtYnWAJ.jpg" title="source: imgur.com" ></a>
+<a href="#"><img class="larger-image img-thumbnail thin-border" src="//" title="source: imgur.com" ></a>
         </div>
    <!--Description-->
         <h5 class="text-left">Super Powers: </h5>
