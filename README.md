@@ -1,37 +1,108 @@
-## Welcome to GitHub Pages
+<nav class="navbar navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="#"><b>Dave Burnett</b></a>
+    </div>
 
-You can use the [editor on GitHub](https://github.com/TheXperiencer/TheXperiencer.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#Home">Home</a></li>
+        <li><a href="#About">About</a></li>
+        <li><a href="#Projects">Projects</a></li>
+        <li><a href="#Contact">Contact</a></li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+      </ul>
+    </div>
+    <!-- /.navbar-collapse -->
+  </div>
+  <!-- /.container-fluid -->
+</nav>
+<!--Home Tab-->
+<div class="container" id="Home">
+  <h2>Home</h2>
+  <div class="row">
+    <div class="col-md-8 col-md-offset-2">
+    </div>
+    <!--About Tab-->
+    <div class="container-fluid" id="About">
+      <h2>About</h2>
+      <div class="row">
+        <div class="col-xs-6 col-xs-3">
+ <!--Profile Pic-->
+<a href="#"><img class="larger-image img-thumbnail thin-border" src="https://i.imgur.com/PtYnWAJ.jpg" title="source: imgur.com" ></a>
+        </div>
+   <!--Description-->
+        <h5 class="text-left">Super Powers: </h5>
+        <div class="row">
+        <div class="col-xs-6 col-md-3 col-md-offset-1">
+      <h5 class="text-box1 "><br><br><ul><li>Front-End Developer</li><br><li> Network Security Engineer</li><br><li>With Practical experience</li></ul> </h5>
+            </div>
+   </div>
+      <hr/>
+    </div>
+    </div>
+      </div>
+    <!--Project placeholders-->
+    <div class="container-fluid" id="Projects">
+      <h2>Projects</h2>
+      <div class="row">
+        <div class="col-xs-6 col-md-3 col-md-offset-1">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3 col-md-offset-1">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a class="thumbnail">
+            <img src="http://www.vangardemusic.com/resize/medias/release/11/image/c300x300/release.png" alt="coming soon!">
+          </a>
+        </div>
+      </div>
+    </div>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheXperiencer/TheXperiencer.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <center>
+      <div class="container" id="Contact">
+        <h2>Contact Me</h2>
+        <div class="btn-group btn-group-lg" role="group" aria-label="...">
+          <a href="https://github.com/TheXperiencer" target="_blank" class="btn btn-default">
+            <p><i class="fa fa-github" aria-hidden="true"></i> GitHub</p>
+          </a>
+          <a href="https://www.linkedin.com/in/thexperiencer/" target="_blank" class="btn btn-default">
+            <p><i class="fa fa-linkedin-square" aria-hidden="true"></i> Linkedin</p>
+          </a>
+          <a href="https://www.freecodecamp.com/thexperiencer" target="_blank" class="btn btn-default">
+            <p><i class="fa fa-free-code-camp" aria-hidden="true"></i> freeCodeCamp</p>
+          </a>
+        </div>
+    </center>
+    </div>
+  </div>
+</div>
+-
